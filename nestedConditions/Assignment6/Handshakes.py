@@ -1,3 +1,3 @@
 N = int(input("Enter a count"))
 print(int((N - 1) / 2) * N)
-print("Hey Simple vegit rsion12")
+print("Hey Simple version12")
