@@ -1,4 +1,4 @@
-Pytho Topics in Setail: Of course! Here's a more detailed explanation of each important topic in Python:
+Pytho Topics in Detail: Of course! Here's a more detailed explanation of each important topic in Python:
 
 1. **Variables and Data Types**:
    - Variables are used to store data values in Python. They don't require explicit declaration.
